@@ -14,5 +14,4 @@ git clone https://github.com/Vstranne/hacker-news.git
   6. The index.php has a lot of div elements rn, consider using various  semantic elements for accessability.
   7. Signing up: add second field for password so the user knows no typos were made.
   8. Responsive! Design works well both on mobile and desktop
-  9. 
-  10. 
+
