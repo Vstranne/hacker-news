@@ -22,18 +22,7 @@ git clone https://github.com/Vstranne/hacker-news.git
   7. Signing up: add second field for password so the user knows no typos were made.
   8. Responsive! Design works well both on mobile and desktop
 
-Write code review here :)
 
-- **index.php:L25** This code is bad! (this was just an example)
--
--
--
--
--
--
--
--
--
 
 ### Pull Request
 
